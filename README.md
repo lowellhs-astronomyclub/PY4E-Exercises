@@ -1,11 +1,12 @@
 # PY4E-Exercises
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lowellhs-astronomyclub/PY4E-Exercises/master)
+
 Hey everyone!
 
-If you're reading this, that means you joined the lowellhs-astronomyclub organization succesfully! 
+If you're reading this, you've found Lowell Astronomy Club's PY4E Exercises GitHub repository succesfully! 
 Make sure you've completed the GitHub crash course before starting this. Here is where we'll be posting our solutions to the exercises in PY4E.
 
-Open the exercise prompts for each chapter through [Binder](https://mybinder.org/v2/gh/lowellhs-astronomyclub/PY4E-Exercises/master), starting with [VARIABLES.ipynb](https://hub.gke.mybinder.org/user/lowellhs-astron--py4e-exercises-h8ofmkpd/notebooks/VARIABLES.ipynb).
+Open the exercise prompts for each chapter through [Binder](https://mybinder.org/v2/gh/lowellhs-astronomyclub/PY4E-Exercises/master), starting with [VARIABLES.ipynb](https://hub.gke.mybinder.org/user/lowellhs-astron--py4e-exercises-h8ofmkpd/notebooks/VARIABLES.ipynb). Once you've finished with the exercises for one chapter, click "Download". Next, create a new branch from "master" and title it "Initials-FinishedExercises" (see "EY-FinishedExercises" for an example) and upload your notebook to that branch. As you complete the exercises for the next chapters, upload them to that same branch.
 
 Happy coding!
 
